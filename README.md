@@ -48,7 +48,7 @@ Machine Learning Project: Diagnosis of Breast Cancer by Image Data using a class
 <h2>  | :artificial_satellite: About:  </h2>
 
 <p align="justify">
-  Estou pesquisando sobre machine learning e meu foco atual se encontra em modelos classificadores. Com isto em mente pesquisei sobre o repositorio em da <a href="https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic">UC Irvine</a> que me chamou atencao, entao desenvolvi um modelo de classificacao binaria para identificar casos de cancer benigno ou cancer maligno 
+  EI am researching Machine Learning and my current focus is on classifying models. With this in mind I researched the repository in <a href="https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic">UC Irvine</a> that called me attention, so develop a binary classification model to identify cases of benign cancer or malignant cancer
 </p>
 
 <br>
@@ -100,16 +100,17 @@ Informations about Dataset:
 - Donor: Nick Street
 
 Attribute Information:
-    - radius (mean of distances from center to points on the perimeter)
-    - texture (standard deviation of gray-scale values)
-    - perimeter
-    - area
-    - smoothness (local variation in radius lengths)
-    - compactness (perimeter^2 / area - 1.0)
-    - concavity (severity of concave portions of the contour)
-    - concave points (number of concave portions of the contour)
-    - symmetry
-    - fractal dimension ("coastline approximation" - 1)
+
+- radius (mean of distances from center to points on the perimeter)
+- texture (standard deviation of gray-scale values)
+- perimeter
+- area
+- smoothness (local variation in radius lengths)
+- compactness (perimeter^2 / area - 1.0)
+- concavity (severity of concave portions of the contour)
+- concave points (number of concave portions of the contour)
+- symmetry
+- fractal dimension ("coastline approximation" - 1)
 
 The mean, standard error, and "worst" or largest (mean of the three worst/largest values) of these features were computed for each image, resulting in 30 features. For instance, field 0 is Mean Radius, field 10 is Radius SE, field 20 is Worst Radius.
 
